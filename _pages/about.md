@@ -13,6 +13,7 @@ permalink: /about/
 - [Key Dates](#competition-updates)
 - [Organizers](#organizers)
 - [Contacts](#contact)
+- [References](#references)
 
 # Introduction
 
@@ -39,7 +40,7 @@ In our competition the dataset will be given the question answers. The question 
 
 ## Key Dates
 
-**Registration Opens**: 5th January, 2025
+**Registration Opens**: 10th January, 2025
 
 **Registration Close**: 31st March, 2025
 
