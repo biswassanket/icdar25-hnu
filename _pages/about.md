@@ -7,8 +7,8 @@ permalink: /about/
 
 ## Contents
 
-- [Introduction](#iclr-2024-blogposts-track)
-- [Challenge Description](#spotlight)
+- [Introduction](#introduction)
+- [Challenge Description](#competition-details)
 - [Dataset details](#accepted-posts)
 - [Key Dates](#key-dates)
 - [Submissions](#submissions)
