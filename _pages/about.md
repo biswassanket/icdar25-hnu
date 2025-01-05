@@ -51,10 +51,6 @@ In our competition the dataset will be given the question answers. The question 
 
 
 
-## Contact
-
-For any query contact aniket.pal@research.iiit.ac.in, sbiswas@cvc.uab.cat
-
 ## Organizers
 
 **Dr. Aniket Pal**, Postdoctoral researcher, CVIT Lab, IIIT Hydearabad, India
@@ -68,6 +64,10 @@ For any query contact aniket.pal@research.iiit.ac.in, sbiswas@cvc.uab.cat
 **Prof. Josep Lladós**, Professor, Computer Vision Center, Universitat Autònoma de Barcelona, Spain
 
 **Prof. C.V. Jawahar**, Professor, CVIT Lab, IIIT Hydearabad
+
+## Contact
+
+For any query contact aniket.pal@research.iiit.ac.in, sbiswas@cvc.uab.cat
 
 
 ## References
