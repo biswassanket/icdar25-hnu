@@ -8,11 +8,11 @@ permalink: /about/
 ## Contents
 
 - [Introduction](#introduction)
-- [Challenge Description](#competition-details)
+- [Competition Description](#competition-details)
 - [Dataset details](#accepted-posts)
-- [Key Dates](#key-dates)
-- [Submissions](#submissions)
+- [Key Dates](#competition-updates)
 - [Organizers](#organizers)
+- [Contacts](#contact)
 
 # Introduction
 
@@ -37,7 +37,7 @@ In our competition the dataset will be given the question answers. The question 
 
 
 
-## Competition Updates
+## Key Dates
 
 **Registration Opens**: 5th January, 2025
 
